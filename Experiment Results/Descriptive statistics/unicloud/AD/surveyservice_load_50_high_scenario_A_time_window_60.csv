@@ -1,0 +1,16 @@
+Algorithm,Metric,Min,Max,Median,Mean,SD,CV
+birch,Precision,0.0,1.0,0.0,0.2,0.4,0.162
+birch,Recall,0.0,1.0,0.0,0.2,0.4,0.162
+birch,F-Score,0.0,1.0,0.0,0.2,0.4,0.162
+iforest,Precision,0.0,1.0,0.0,0.112,0.316,0.101
+iforest,Recall,0.0,1.0,0.0,0.112,0.316,0.101
+iforest,F-Score,0.0,1.0,0.0,0.112,0.316,0.101
+knn,Precision,0.0,1.0,0.0,0.1,0.3,0.091
+knn,Recall,0.0,1.0,0.0,0.1,0.3,0.091
+knn,F-Score,0.0,1.0,0.0,0.1,0.3,0.091
+lstm,Precision,0.0,1.0,0.0,0.075,0.263,0.07
+lstm,Recall,0.0,1.0,0.0,0.075,0.263,0.07
+lstm,F-Score,0.0,1.0,0.0,0.075,0.263,0.07
+svm,Precision,0.0,1.0,0.0,0.088,0.283,0.081
+svm,Recall,0.0,1.0,0.0,0.088,0.283,0.081
+svm,F-Score,0.0,1.0,0.0,0.088,0.283,0.081

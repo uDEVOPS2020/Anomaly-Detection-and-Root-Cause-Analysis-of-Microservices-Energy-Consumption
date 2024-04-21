@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+GET,/category.html,HTTPError('502 Server Error: Bad Gateway for url: /category.html'),1
+GET,/login,HTTPError('502 Server Error: Bad Gateway for url: /login'),1

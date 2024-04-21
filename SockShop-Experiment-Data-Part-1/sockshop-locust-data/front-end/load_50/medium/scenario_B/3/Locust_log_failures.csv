@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+POST,/orders,HTTPError('406 Client Error: Not Acceptable for url: /orders'),9071
+GET,/catalogue,HTTPError('502 Server Error: Bad Gateway for url: /catalogue'),1

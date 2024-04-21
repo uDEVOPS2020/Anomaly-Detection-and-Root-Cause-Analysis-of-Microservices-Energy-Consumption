@@ -1,0 +1,9 @@
+service_name,true_positives,false_positives,false_negatives,precision,recall,f1score
+geospatialanalysisservice_energy_Anomaly,0,0,1,0.0,0.0,0.0
+surveyservice_energy_Anomaly,2,1,0,0.667,1.0,0.8
+surveyservice-db_energy_Anomaly,0,0,1,0.0,0.0,0.0
+transformation-consumer_energy_Anomaly,0,0,1,0.0,0.0,0.0
+transformation-worker_energy_Anomaly,0,0,1,0.0,0.0,0.0
+unicloudauth_energy_Anomaly,0,0,2,0.0,0.0,0.0
+unicloudauth-api_energy_Anomaly,0,0,1,0.0,0.0,0.0
+unicloudauth-db_energy_Anomaly,0,0,1,0.0,0.0,0.0

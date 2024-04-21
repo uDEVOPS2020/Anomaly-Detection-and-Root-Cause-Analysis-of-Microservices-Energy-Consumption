@@ -1,0 +1,13 @@
+Time Window,Model,mAP
+time_window_10,epsilon,0.057
+time_window_10,MicroRCA,0.884
+time_window_10,rcd,0.668
+time_window_30,epsilon,0.049
+time_window_30,MicroRCA,0.86
+time_window_30,rcd,0.464
+time_window_5,epsilon,0.054
+time_window_5,MicroRCA,0.832
+time_window_5,rcd,0.749
+time_window_60,epsilon,0.085
+time_window_60,MicroRCA,0.903
+time_window_60,rcd,0.535

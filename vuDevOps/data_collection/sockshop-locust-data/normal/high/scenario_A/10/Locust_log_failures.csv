@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+GET,/category.html,HTTPError('502 Server Error: Bad Gateway for url: /category.html'),1
+GET,/detail.html?id=808a2de1-1aaa-4c25-a9b9-6612e8f29a38,HTTPError('502 Server Error: Bad Gateway for url: /detail.html?id=808a2de1-1aaa-4c25-a9b9-6612e8f29a38'),1
+GET,/detail.html?id=03fef6ac-1896-4ce8-bd69-b798f85c6e0b,HTTPError('502 Server Error: Bad Gateway for url: /detail.html?id=03fef6ac-1896-4ce8-bd69-b798f85c6e0b'),1
+GET,/detail.html?id=d3588630-ad8e-49df-bbd7-3167f7efb246,HTTPError('502 Server Error: Bad Gateway for url: /detail.html?id=d3588630-ad8e-49df-bbd7-3167f7efb246'),1

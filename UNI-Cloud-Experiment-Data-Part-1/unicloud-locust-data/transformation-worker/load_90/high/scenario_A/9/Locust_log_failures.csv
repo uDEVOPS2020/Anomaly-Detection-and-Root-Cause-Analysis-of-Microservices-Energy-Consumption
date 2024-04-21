@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+POST,/survey,HTTPError('400 Client Error: Bad Request for url: /survey'),14
+GET,/createlayer,HTTPError('400 Client Error: Bad Request for url: /createlayer'),185
+GET,/createproject,HTTPError('400 Client Error: Bad Request for url: /createproject'),2

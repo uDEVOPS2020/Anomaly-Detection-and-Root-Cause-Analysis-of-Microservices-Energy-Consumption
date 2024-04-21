@@ -1,0 +1,10 @@
+Algorithm,Precision Level,Min,Max,Median,Mean,SD,CV,MAP
+epsilon,Precision@1,0.0,1.0,0.0,0.029,0.168,0.028,0.085
+epsilon,Precision@2,0.0,1.0,0.0,0.058,0.234,0.055,0.085
+epsilon,Precision@3,0.0,1.0,0.0,0.167,0.373,0.139,0.085
+MicroRCA,Precision@1,0.0,1.0,1.0,0.714,0.452,0.205,0.903
+MicroRCA,Precision@2,0.0,1.0,1.0,0.996,0.065,0.004,0.903
+MicroRCA,Precision@3,1.0,1.0,1.0,1.0,0.0,0.0,0.903
+rcd,Precision@1,0.0,1.0,0.0,0.25,0.433,0.188,0.535
+rcd,Precision@2,0.0,1.0,1.0,0.533,0.499,0.25,0.535
+rcd,Precision@3,0.0,1.0,1.0,0.821,0.383,0.148,0.535

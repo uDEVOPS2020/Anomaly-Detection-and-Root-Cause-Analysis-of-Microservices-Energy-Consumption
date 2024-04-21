@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/detail.html?id=808a2de1-1aaa-4c25-a9b9-6612e8f29a38,HTTPError('502 Server Error: Bad Gateway for url: /detail.html?id=808a2de1-1aaa-4c25-a9b9-6612e8f29a38'),1

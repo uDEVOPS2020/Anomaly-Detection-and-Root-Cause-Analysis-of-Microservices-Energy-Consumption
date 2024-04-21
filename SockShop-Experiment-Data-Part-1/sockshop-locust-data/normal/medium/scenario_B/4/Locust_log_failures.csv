@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+POST,/cart,HTTPError('502 Server Error: Bad Gateway for url: /cart'),3
+GET,/category.html,HTTPError('502 Server Error: Bad Gateway for url: /category.html'),1
+POST,/orders,HTTPError('406 Client Error: Not Acceptable for url: /orders'),9041
+POST,/orders,HTTPError('502 Server Error: Bad Gateway for url: /orders'),1

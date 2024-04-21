@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: sfr-pyrca
+Version: 1.0.1
+Summary: PyRCA: A Python library for Root Cause Analysis
+Home-page: https://github.com/salesforce/PyRCA
+Author: Salesforce Research Warden AIOps
+License: 3-Clause BSD
+Keywords: AIOps RCA root cause analysis
+Requires-Python: >=3.7,<4
+Description-Content-Type: text/markdown
+Provides-Extra: plot
+Provides-Extra: all
+
+for PyRCA run pip install sfr-pyrca

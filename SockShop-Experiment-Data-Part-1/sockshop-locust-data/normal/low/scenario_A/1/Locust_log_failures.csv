@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/catalogue,HTTPError('502 Server Error: Bad Gateway for url: /catalogue'),1

@@ -1,0 +1,12 @@
+Count,Message,Traceback,Nodes
+717,Expecting value: line 1 column 1 (char 0),"  File ""/home/floroiu/MasterProject/Thesis/vuDevOps/data_collection/.venv/lib/python3.10/site-packages/locust/user/task.py"", line 347, in run
+    self.execute_next_task()
+  File ""/home/floroiu/MasterProject/Thesis/vuDevOps/data_collection/.venv/lib/python3.10/site-packages/locust/user/task.py"", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/home/floroiu/MasterProject/Thesis/vuDevOps/data_collection/.venv/lib/python3.10/site-packages/locust/user/task.py"", line 384, in execute_task
+    task(self)
+  File ""/home/floroiu/MasterProject/Thesis/vuDevOps/data_collection/load-test/unicloud_scenario_a_locust.py"", line 15, in survey_objects
+    layer = self.client.get(""/createlayer"").json()
+  File ""/home/floroiu/MasterProject/Thesis/vuDevOps/data_collection/.venv/lib/python3.10/site-packages/requests/models.py"", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local

@@ -1,0 +1,6 @@
+,source,destination,weight
+0,surveyservice,surveyservice-db,1
+1,transformatransformation-consumer,transformation-worker,1
+2,surveyservice,unicloudauth,1
+3,surveyservice,unicloudauth-api,1
+3,geospatialanalysisservice,geospatialanalysisservice,1

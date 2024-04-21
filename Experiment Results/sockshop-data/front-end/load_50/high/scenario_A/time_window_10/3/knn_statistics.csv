@@ -1,0 +1,14 @@
+service_name,true_positives,false_positives,false_negatives,precision,recall,f1score
+carts_energy_Anomaly,0,0,0,0.0,0.0,0.0
+carts-db_energy_Anomaly,1,0,1,1.0,0.5,0.667
+catalogue_energy_Anomaly,0,0,0,0.0,0.0,0.0
+catalogue-db_energy_Anomaly,1,0,0,1.0,1.0,1.0
+front-end_energy_Anomaly,1,0,0,1.0,1.0,1.0
+orders_energy_Anomaly,2,0,0,1.0,1.0,1.0
+orders-db_energy_Anomaly,1,0,0,1.0,1.0,1.0
+payment_energy_Anomaly,1,0,0,1.0,1.0,1.0
+queue-master_energy_Anomaly,0,0,3,0.0,0.0,0.0
+rabbitmq_energy_Anomaly,1,0,1,1.0,0.5,0.667
+shipping_energy_Anomaly,2,0,0,1.0,1.0,1.0
+user_energy_Anomaly,1,0,1,1.0,0.5,0.667
+user-db_energy_Anomaly,3,0,0,1.0,1.0,1.0
