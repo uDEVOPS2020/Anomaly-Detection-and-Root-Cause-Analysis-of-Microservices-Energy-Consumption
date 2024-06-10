@@ -1,6 +1,6 @@
 # Anomaly Detection and Root Cause Analysis of Microservices Energy Consumption
 This repository is a companion page for the following publication:
-> Maximilian Stefan Floroiu, Stefano Russo, Luca Giamattei, Antonio Guerriero, Ivano Malavolta, Roberto Pietrantuono. Anomaly Detection and Root Cause Analysis of Microservices Energy Consumption. Proceedings of the 2025 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES.
+> Maximilian Stefan Floroiu, Stefano Russo, Luca Giamattei, Antonio Guerriero, Ivano Malavolta, Roberto Pietrantuono. Anomaly Detection and Root Cause Analysis of Microservices Energy Consumption. Proceedings of the 2024 IEEE International Conference on Web Services (ICWS), 2024.
 
 ## Experiment phases and their documentation
 
