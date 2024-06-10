@@ -1,5 +1,12 @@
-# Experiment phases and their documentation
+# Anomaly Detection and Root Cause Analysis of Microservices Energy Consumption
+This repository is a companion page for the following publication:
+> Maximilian Stefan Floroiu, Stefano Russo, Luca Giamattei, Antonio Guerriero, Ivano Malavolta, Roberto Pietrantuono. Anomaly Detection and Root Cause Analysis of Microservices Energy Consumption. Proceedings of the 2025 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES.
 
-## 1 System deployment documentation is available [here](https://github.com/uDEVOPS2020/Anomaly-Detection-and-Root-Cause-Analysis-of-Microservices-Energy-Consumption/blob/main/vuDevOps/microservices-demo/README.md)
-## 2 Data collection during experiment execution is available [here](https://github.com/uDEVOPS2020/Anomaly-Detection-and-Root-Cause-Analysis-of-Microservices-Energy-Consumption/blob/main/vuDevOps/data_collection/README.md)
-## 3 Data analysis phase is available here [here](https://github.com/uDEVOPS2020/Anomaly-Detection-and-Root-Cause-Analysis-of-Microservices-Energy-Consumption/blob/main/Data%20Analysis/README.md)
+## Experiment phases and their documentation
+
+-  System deployment documentation is available [here](https://github.com/uDEVOPS2020/Anomaly-Detection-and-Root-Cause-Analysis-of-Microservices-Energy-Consumption/blob/main/vuDevOps/microservices-demo/README.md)
+-  Data collection during experiment execution is available [here](https://github.com/uDEVOPS2020/Anomaly-Detection-and-Root-Cause-Analysis-of-Microservices-Energy-Consumption/blob/main/vuDevOps/data_collection/README.md)
+-  Data analysis phase is available here [here](https://github.com/uDEVOPS2020/Anomaly-Detection-and-Root-Cause-Analysis-of-Microservices-Energy-Consumption/blob/main/Data%20Analysis/README.md)
+
+### How to cite us
+If this study is helping your research, consider to cite it is as follows, thanks!
