@@ -8,7 +8,7 @@ This repository is a companion page for the following publication:
 -  Data collection during experiment execution is available [here](https://github.com/uDEVOPS2020/Anomaly-Detection-and-Root-Cause-Analysis-of-Microservices-Energy-Consumption/blob/main/vuDevOps/data_collection/README.md)
 -  Data analysis phase is available here [here](https://github.com/uDEVOPS2020/Anomaly-Detection-and-Root-Cause-Analysis-of-Microservices-Energy-Consumption/blob/main/Data%20Analysis/README.md)
 
-### How to cite us
+## How to cite us
 If this study is helping your research, consider to cite it is as follows, thanks!
 ```
 @inproceedings{floroiu_2024,
