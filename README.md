@@ -10,3 +10,13 @@ This repository is a companion page for the following publication:
 
 ### How to cite us
 If this study is helping your research, consider to cite it is as follows, thanks!
+```
+@inproceedings{floroiu_2024,
+  title={{Anomaly Detection and Root Cause Analysis of Microservices Energy Consumption}},
+  author={Maximilian Stefan Floroiu and Stefano Russo and Luca Giamattei and Antonio Guerriero and Ivano Malavolta and Roberto Pietrantuono},
+  booktitle={IEEE International Conference on Web Services (ICWS)},
+  pages={To appear},
+  year={2024},
+  organization={IEEE}
+}
+```
